@@ -54,6 +54,55 @@ Long-term success metrics, > 6 months of the program run time:
 * This program team constitutes 3 active program managers
 * This program inspires and coaches a student to join the GitHub Campus Experts program
 
-# Background
+## Background
 
 This program was as an initiative to promote awareness and participation in open-source software development, by Liran Tal on 2022.
+
+# Program syllabus
+
+## Chapter 1: Open-source software and the GitHub Developer Platform
+
+Topics:
+
+* Opening and Introductions
+* The background story of open-source software
+* The impact of open-source software today
+* Introduction to the GitHub developer platform
+
+Exercise:
+
+* Create a GitHub user
+* Update your GitHub user profile
+* What’s in your GitHub user profile?
+* Can you find GitHub profiles of your friends or role models?
+* Getting familiar with code repositories on GitHub
+* What projects can you find on GitHub?
+* How did you bookmark the list of projects?
+
+## Chapter 2: Software development on GitHub’s developer platform
+
+Topics:
+
+* Introduction to software versioning with Git
+* Creating and managing GitHub code repositories
+* Upgrading your GitHub user profile with a special type of repository
+* The Markdown markup language
+* Beyond GitHub visual editor: Meet the GitHub cloud editor
+* Forking repositories, and contributing code in an open-source collaborative software development model
+
+Exercise:
+
+* Create a GitHub repository
+* Create new files, commit new code, commit code updates
+* Can you make your GitHub user profile stand out?
+* Chapter 3: Automate software delivery
+
+## Chapter 3: Automate software delivery
+SDLC, DevOps, GitHub Actions that run markdown links checks, and English spelling/grammar as part of a CI for the GitHub User profile previous workshop session Network with your classmate, learn something about them that they haven’t added to their GitHub profile, and raise a pull request to reflect it.
+
+## Chapter 4: Securing open-source software
+Open-source software supply chain security (event-stream, trojan source, lockfile linting), licensing, governance models, security hygiene, security of open-source software packages.
+
+This is also the last chapter and meeting that will be the graduation class.
+Where do we go from here? Maintaining a presence in open-source communities enables networking, opens opportunities for growth, empowers learning, sets you up for success with work interviews. Become a GitHub Campus Expert and help support the developer community around you. Survey form. Open panel discussion (career, tech, community, etc). Can we get an open source celeb figure for a lecture (idea: bringing in someone from the Israeli Microsoft R&D site)? Distribute certification and closing words.
+
