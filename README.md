@@ -95,7 +95,6 @@ Exercise:
 * Create a GitHub repository
 * Create new files, commit new code, commit code updates
 * Can you make your GitHub user profile stand out?
-* Chapter 3: Automate software delivery
 
 ## Chapter 3: Automate software delivery
 SDLC, DevOps, GitHub Actions that run markdown links checks, and English spelling/grammar as part of a CI for the GitHub User profile previous workshop session Network with your classmate, learn something about them that they haven’t added to their GitHub profile, and raise a pull request to reflect it.
