@@ -97,11 +97,36 @@ Exercise:
 * Can you make your GitHub user profile stand out?
 
 ## Chapter 3: Automate software delivery
-SDLC, DevOps, GitHub Actions that run markdown links checks, and English spelling/grammar as part of a CI for the GitHub User profile previous workshop session Network with your classmate, learn something about them that they haven’t added to their GitHub profile, and raise a pull request to reflect it.
+
+Topics:
+
+* The SDLC
+* What is DevOps?
+* Introduction to Continous Integration, Continouous Delivery
+* Brief intro to Infrastructure as Code (IaC), and YAML
+* Introduction to GitHub Actions, Workflows, Jobs, and Steps
+
+Exercise:
+
+* GitHub Action that run markdown links checks
+* GitHub Action and English spelling/grammar as part of a CI for the GitHub User profile of previous workshop session
+* Network with your classmate, learn something about them that they haven’t added to their GitHub profile, and raise a pull request to reflect it
 
 ## Chapter 4: Securing open-source software
-Open-source software supply chain security (event-stream, trojan source, lockfile linting), licensing, governance models, security hygiene, security of open-source software packages.
+
+Topics:
+
+* Open-source software supply chain security and the security of open-source software packages.
+* Licensing, governance models, security hygiene
+* Demonstrating an interactive live hack for a security vulnerability manifesting in an open source package
+
+Exercise:
+
+* Fork the [demo vulnerable application](https://github.com/snyk-labs/nodejs-goof)
+* Connect to Snyk with your GitHub account, and import the demoo application
+* Brief overview of a vulnerability, and automatically fixing them with Pull Requests using Snyk
+
+## Chapter 4: Conclusion
 
 This is also the last chapter and meeting that will be the graduation class.
-Where do we go from here? Maintaining a presence in open-source communities enables networking, opens opportunities for growth, empowers learning, sets you up for success with work interviews. Become a GitHub Campus Expert and help support the developer community around you. Survey form. Open panel discussion (career, tech, community, etc). Can we get an open source celeb figure for a lecture (idea: bringing in someone from the Israeli Microsoft R&D site)? Distribute certification and closing words.
-
+Where do we go from here? Maintaining a presence in open-source communities enables networking, opens opportunities for growth, empowers learning, sets you up for success with work interviews. Become a GitHub Campus Expert and help support the developer community around you. Survey form. Open panel discussion (career, tech, community, etc). 
